@@ -143,3 +143,46 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+
+
+/* Call to Action*/
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  color: white;
+  padding: 7% 15%;
+  
+}
+
+/*footer*/
+
+#footer {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.social-icon {
+  color: black;
+  font-size: 1em;
+  margin: 20px 10px;
+}
+
+ 
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .iphone {
+    position: static;
+    transform: rotate(0);
+  }
+
+}
+
+
+
+
